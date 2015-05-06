@@ -32,3 +32,41 @@ C:\Users\celso_000\Documents\Visual Studio 2013\Projects\VP\VP\bin\Microsoft.Asp
 C:\Users\celso_000\Documents\Visual Studio 2013\Projects\VP\VP\obj\Debug\VP.dll
 C:\Users\celso_000\Documents\Visual Studio 2013\Projects\VP\VP\obj\Debug\VP.pdb
 C:\Users\celso_000\Documents\Visual Studio 2013\Projects\VP\VP\obj\Debug\VP.csprojResolveAssemblyReference.cache
+D:\ProjetosUFPR\VP\VP\bin\VP.dll.config
+D:\ProjetosUFPR\VP\VP\bin\VP.dll
+D:\ProjetosUFPR\VP\VP\bin\VP.pdb
+D:\ProjetosUFPR\VP\VP\bin\Antlr3.Runtime.dll
+D:\ProjetosUFPR\VP\VP\bin\AspNet.ScriptManager.jQuery.dll
+D:\ProjetosUFPR\VP\VP\bin\AspNet.ScriptManager.jQuery.UI.Combined.dll
+D:\ProjetosUFPR\VP\VP\bin\DotNetOpenAuth.AspNet.dll
+D:\ProjetosUFPR\VP\VP\bin\DotNetOpenAuth.Core.dll
+D:\ProjetosUFPR\VP\VP\bin\DotNetOpenAuth.OAuth.Consumer.dll
+D:\ProjetosUFPR\VP\VP\bin\DotNetOpenAuth.OAuth.dll
+D:\ProjetosUFPR\VP\VP\bin\DotNetOpenAuth.OpenId.dll
+D:\ProjetosUFPR\VP\VP\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+D:\ProjetosUFPR\VP\VP\bin\EntityFramework.dll
+D:\ProjetosUFPR\VP\VP\bin\Microsoft.AspNet.FriendlyUrls.dll
+D:\ProjetosUFPR\VP\VP\bin\Microsoft.AspNet.Membership.OpenAuth.dll
+D:\ProjetosUFPR\VP\VP\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+D:\ProjetosUFPR\VP\VP\bin\Microsoft.ScriptManager.MSAjax.dll
+D:\ProjetosUFPR\VP\VP\bin\Microsoft.ScriptManager.WebForms.dll
+D:\ProjetosUFPR\VP\VP\bin\Microsoft.Web.Infrastructure.dll
+D:\ProjetosUFPR\VP\VP\bin\System.Web.Optimization.dll
+D:\ProjetosUFPR\VP\VP\bin\System.Web.Providers.dll
+D:\ProjetosUFPR\VP\VP\bin\WebGrease.dll
+D:\ProjetosUFPR\VP\VP\bin\Org.Mentalis.Security.Cryptography.dll
+D:\ProjetosUFPR\VP\VP\bin\Mono.Math.dll
+D:\ProjetosUFPR\VP\VP\bin\EntityFramework.xml
+D:\ProjetosUFPR\VP\VP\bin\DotNetOpenAuth.Core.xml
+D:\ProjetosUFPR\VP\VP\bin\DotNetOpenAuth.OAuth.xml
+D:\ProjetosUFPR\VP\VP\bin\DotNetOpenAuth.OAuth.Consumer.xml
+D:\ProjetosUFPR\VP\VP\bin\DotNetOpenAuth.OpenId.xml
+D:\ProjetosUFPR\VP\VP\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+D:\ProjetosUFPR\VP\VP\bin\DotNetOpenAuth.AspNet.xml
+D:\ProjetosUFPR\VP\VP\bin\Microsoft.AspNet.Membership.OpenAuth.xml
+D:\ProjetosUFPR\VP\VP\bin\Microsoft.AspNet.FriendlyUrls.xml
+D:\ProjetosUFPR\VP\VP\bin\Org.Mentalis.Security.Cryptography.xml
+D:\ProjetosUFPR\VP\VP\bin\Mono.Math.xml
+D:\ProjetosUFPR\VP\VP\obj\Debug\VP.csprojResolveAssemblyReference.cache
+D:\ProjetosUFPR\VP\VP\obj\Debug\VP.dll
+D:\ProjetosUFPR\VP\VP\obj\Debug\VP.pdb
